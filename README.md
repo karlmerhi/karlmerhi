@@ -30,7 +30,7 @@
 
 ### What I'm Listening To:
 
-[![Spotify](https://novatorem-karlmerhi.vercel.app/api/spotify)](https://open.spotify.com/user/karlmerhi99)
+[<img src="https://novatorem-karlmerhi.vercel.app/api/spotify alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/karlmerhi99)
 <!--
 **karlmerhi/karlmerhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
