@@ -1,7 +1,7 @@
 ### Hi there, my name is Karl 👋
 
-<img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=appveyorr" /> <img height="32" width="160" src="https://img.shields.io/badge/Linkedin-link-brightgreen?style=for-the-badge&logo=linkedin" />
-<!--<img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=medium" /> -->
+<a href="karlmerhi.com"><img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=appveyorr" /></a> <a href="https://www.linkedin.com/in/karl-m-673646179/"><img height="32" width="160" src="https://img.shields.io/badge/Linkedin-link-brightgreen?style=for-the-badge&logo=linkedin" /></a>
+
 
 
 ⚡ I am an aspiring full stack web developer based out of Toronto with a strong passion for coding. I am currently learning M.E.A.N and Python. I find great enjoyement in building side projects and am a eager learner who believes in clean code, team work, agile/scrum, and problem solving with outside the box thinking. ⚡ 
