@@ -4,7 +4,7 @@
 
 
 
-⚡ I am an aspiring full stack web developer based out of Toronto with a strong passion for coding. I am currently learning M.E.A.N and Python. I find great enjoyement in building side projects and am a eager learner who believes in clean code, team work, agile/scrum, and problem solving with outside the box thinking. ⚡ 
+⚡ I am an aspiring developer based out of Toronto with a strong passion for coding. I am currently learning M.E.R.N and Java. I find great enjoyement in building side projects and am a eager learner who believes in clean code, team work, agile/scrum, and problem solving with outside the box thinking. ⚡ 
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning Python, M.E.A.N, ReactJS, SQL
@@ -16,7 +16,9 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" 
+     />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
