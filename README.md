@@ -7,7 +7,7 @@
 ⚡ I am an aspiring developer based out of Toronto with a strong passion for coding. I am currently learning M.E.R.N and Java. I find great enjoyment in building side projects and am a eager learner who believes in clean code, team work, agile/scrum, and problem solving with outside the box thinking. ⚡ 
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning Python, M.E.A.N, ReactJS, SQL
+- 🌱 I’m currently learning M.E.A.N, ReactJS, SQL
 - 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with anything (always willing to learn)
 - 💬 Ask me about how I can help
@@ -29,7 +29,6 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 [![Karl's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlmerhi)](https://github.com/karlmerhi/github-readme-stats)
 <!--
