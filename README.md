@@ -4,7 +4,7 @@
 
 
 
-⚡ I am an aspiring developer based out of Toronto with a strong passion for coding. I am currently learning M.E.R.N and Java. I find great enjoyment in building side projects and am a eager learner who believes in clean code, team work, agile/scrum, and problem solving with outside the box thinking. ⚡ 
+⚡ I am a Full Stack Developer based out of Toronto with a strong passion for coding. I am currently learning M.E.R.N and Java. I find great enjoyment in building side projects and am an eager learner who believes in clean code, teamwork, agile/scrum, and problem-solving with outside-the-box thinking. ⚡ 
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning M.E.A.N, ReactJS, SQL
