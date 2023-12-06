@@ -1,6 +1,6 @@
 ### Hi there, my name is Karl 👋
 
-<a href="https://karlmerhi.com"><img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=appveyorr" /></a> <a href="https://www.linkedin.com/in/karl-m-673646179/"><img height="32" width="160" src="https://img.shields.io/badge/Linkedin-link-brightgreen?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://karlmerhi.com" target="_blank"><img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=appveyorr" /></a> <a href="https://www.linkedin.com/in/karl-m-673646179/" target="_blank"><img height="32" width="160" src="https://img.shields.io/badge/Linkedin-link-brightgreen?style=for-the-badge&logo=linkedin" /></a>
 
 
 
