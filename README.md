@@ -2,17 +2,14 @@
 
 <a href="https://karlmerhi.com" target="_blank"><img height="32" width="250" src="https://img.shields.io/badge/karlmerhi.com-website%20link-brightgreen?style=for-the-badge&logo=appveyorr" /></a> <a href="https://www.linkedin.com/in/karl-m-673646179/" target="_blank"><img height="32" width="160" src="https://img.shields.io/badge/Linkedin-link-brightgreen?style=for-the-badge&logo=linkedin" /></a>
 
+⚡ I am an IT professional based out of Toronto with a strong background in software development and a passion for cybersecurity. I am currently focusing on enhancing my skills in security protocols, data analysis, and IT infrastructure. I enjoy tackling challenging problems and am committed to continuous learning and professional growth. ⚡
 
-
-⚡ I am a Full Stack Developer based out of Toronto with a strong passion for coding. I am currently learning M.E.R.N and Java. I find great enjoyment in building side projects and am an eager learner who believes in clean code, teamwork, agile/scrum, and problem-solving with outside-the-box thinking. ⚡ 
-
-- 🔭 I’m currently working on my website
-- 🌱 I’m currently learning M.E.A.N, ReactJS, SQL
-- 👯 I’m looking to collaborate on any projects
-- 🤔 I’m looking for help with anything (always willing to learn)
-- 💬 Ask me about how I can help
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy being active
+- 🔭 I’m currently working on improving cybersecurity measures
+- 🌱 I’m currently learning advanced cybersecurity techniques and data analysis
+- 👯 I’m looking to collaborate on IT security and infrastructure projects
+- 🤔 I’m looking for help with exploring new cybersecurity tools and methodologies
+- 💬 Ask me about IT security, data analysis, and software development
+- ⚡ Fun fact: I enjoy being active and exploring new technologies
 
 ### Languages and Tools:
 
